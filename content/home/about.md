@@ -11,25 +11,27 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Reginoal Climate Modeling",
+    "Climate Dynamcis",
+     "Atmospheric Dynamics",
+      "Land-Atmosphere Coupling"  
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Atmospheric Sciences"
+  institution = "University of Illinois at Urbana-Champaign"
+  year = 2011
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Msc in Meteorology"
+  institution = "Peking University"
+  year = 2004
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Atomospheric Sciences"
+  institution = "Peking University"
+  year = 2001
  
 +++
 
